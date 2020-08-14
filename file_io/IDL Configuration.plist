@@ -21659,6 +21659,27 @@
 		<string>SSW_HEK_TOUCHVOE</string>
 
 		<!-- ~/code -->
+		<string>AIA_DIFFROT</string>
+		<string>AIA_FFMPEG</string>
+		<string>AIA_FOV</string>
+		<string>AIA_MKDIR</string>
+		<string>AIA_MKIMAGES</string>
+		<string>AIA_MKMOVIE</string>
+		<string>AIA_PAN</string>
+		<string>AIA_PANEL</string>
+		<string>AIA_PANEL_WRAPPER</string>
+		<string>AIA_RFILTER</string>
+		<string>AIA_RFILTER_JP2GEN</string>
+		<string>AIA_RFILTER_MCREAD</string>
+		<string>AIA_SCALE</string>
+		<string>AIA_SCALEPAR</string>
+		<string>AIA_SCREEN_FILES</string>
+		<string>AIA_SEARCH</string>
+		<string>IMAGE_TRANSITION</string>
+		<string>OVERLAY_TRANSITION</string>
+		<string>PAN_PLAY</string>
+		<string>QUALITY_LVL_CHECK</string>
+		<string>ROTATION_TRACKING</string>
 		<string>DEM_20110925</string>
 		<string>EVENT_MOVIES</string>
 		<string>KINEMATICS_20110925</string>
@@ -21723,7 +21744,6 @@
 		<string>DIFF_MWA_OVERLAY</string>
 		<string>FILAMENT_KINEMATICS_20151104</string>
 		<string>FILAMENT_MWA_OVERLAY</string>
-		<string>GROW_MAP</string>
 		<string>KAMEN_FIX</string>
 		<string>KAMEN_TEST</string>
 		<string>MATCH_SLICE_IMAGES</string>
@@ -21748,11 +21768,7 @@
 		<string>GET_JP2S_20090212</string>
 		<string>GET_LOC_20090212</string>
 		<string>MOVIE_20090212</string>
-		<string>ABS_CROSS</string>
-		<string>ABS_DEPTH</string>
-		<string>ABS_RATIO</string>
 		<string>CAVITY_CURVE</string>
-		<string>CLEAN_NANS</string>
 		<string>COLDEN_CAVITY_CURVES</string>
 		<string>COLDEN_CAVITY_RATIOS</string>
 		<string>COLDEN_CAVITY_SLICES</string>
@@ -21778,7 +21794,6 @@
 		<string>MASS_PLOT</string>
 		<string>MULTIWAVE_IMAGES</string>
 		<string>SLICE_CURVES</string>
-		<string>TAU_TO_COLDEN</string>
 		<string>COLDEN_GET_RESULTS_ORIG</string>
 		<string>COLDEN_GRID_SEARCH</string>
 		<string>COLDEN_INTEGRATE</string>
@@ -21796,6 +21811,7 @@
 		<string>LEGEND_MC</string>
 		<string>SIGFIGS</string>
 		<string>SPD_2014_POSTER_FIGURES</string>
+		<string>EVENT_SETTINGS</string>
 		<string>MWA_PFSS_COMP_FIG</string>
 		<string>MWA_PFSS_MAS_POL_MOVIES</string>
 		<string>MWA_PFSS_MAS_POL_PLOT</string>
@@ -21841,6 +21857,49 @@
 		<string>QALIGN</string>
 		<string>SCRATCH</string>
 		<string>TESTPLOT</string>
+		<string>AIA_171_304_OVERLAY</string>
+		<string>BLOB_MOVIE</string>
+		<string>BLOB_SEARCH</string>
+		<string>TRAE_BLOBS</string>
+		<string>OFFPOINT_ALIGN</string>
+		<string>OFFPOINT_ALIGNMENT_TEST</string>
+		<string>OFFPOINT_PHOTOMETRY</string>
+		<string>OFFPOINT_PHOTOMETRY_NICOLE</string>
+		<string>ALCOCK</string>
+		<string>AMAN_EXAMPLE_PLOT</string>
+		<string>AOIFE_EXAMPLE</string>
+		<string>ATUL_LIGHTCURVES</string>
+		<string>CARRINGTON_ROTATION</string>
+		<string>CLASSROOM_ACTIVITY</string>
+		<string>PS1</string>
+		<string>ECLIPSE_LEON</string>
+		<string>FILAMENT_HEART</string>
+		<string>GOLDEN_KEY</string>
+		<string>HUI_SYMPATHETIC</string>
+		<string>INTERESTING_EVENT_20111128</string>
+		<string>JAY_ECLIPSE</string>
+		<string>KATHY_SIMULATION</string>
+		<string>KATHY_VELOCITY</string>
+		<string>KATHY_VELOCITY_PLOTS</string>
+		<string>LASCO_FEATURE_TRACK</string>
+		<string>LASCO_PROJECT</string>
+		<string>LASCO_PROJECT2</string>
+		<string>MONTH_STACK</string>
+		<string>NICE_PLOT_EXAMPLE</string>
+		<string>NOVA</string>
+		<string>NOVA_CUTOUT</string>
+		<string>NOVA_FULLCAD</string>
+		<string>TALK_MOVIE</string>
+		<string>REDO_EXAMPLE</string>
+		<string>AIA_RFILTER_2MIN</string>
+		<string>AIA_RFILTER_CREATE_SAVE_2MIN</string>
+		<string>AIA_RFILTER_MULTIDAY</string>
+		<string>AIA_RFILTER_OFFPOINT</string>
+		<string>AIA_RFILTER_RENAME</string>
+		<string>SAMPLER_CHECK</string>
+		<string>SCALE_PAD_EXAMPLE</string>
+		<string>SENIOR_REVIEW</string>
+		<string>SSP_2017_ALEX_SAMPLE_CODE</string>
 		<string>FFMPEG_COMBINE_SETID</string>
 		<string>MWA_AIA_LASCO_COMPOSITE</string>
 		<string>MWA_CME_AIA_DOWNLOAD</string>
@@ -21875,11 +21934,7 @@
 		<string>MCBVEC2CEA</string>
 		<string>MWA_SOURCE_POSITIONS</string>
 		<string>PROCESS_HMI_VECTOR_DATA</string>
-		<string>DENSITY_MODELS</string>
-		<string>DENSITY_TO_FREQUENCY</string>
-		<string>FREQUENCY_TO_DENSITY</string>
 		<string>NEWKIRK_ENHANCEMENT</string>
-		<string>PLASMA_FREQUENCY</string>
 		<string>PLASMA_LAYER_IMAGE_OVERLAY</string>
 		<string>POSTER_LASCO_DENS_PLOT</string>
 		<string>READ_MOROSAN_DATA</string>
@@ -22000,7 +22055,7 @@
 		<string>RING_I_V_12PANEL_MOVIES</string>
 		<string>RINGS_160</string>
 		<string>RINGS_MOVIE</string>
-		<string>SNR_IMG</string>
+		<string>PROCESS_DATA</string>
 		<string>AIA_MKMOVIE_QPP</string>
 		<string>QPP_AIA_DOWNLOAD</string>
 		<string>QPP_CHECK_BFIELD</string>
@@ -22028,7 +22083,6 @@
 		<string>GET_FLUX_CORR</string>
 		<string>GETNOISE_DIFFROT</string>
 		<string>GETNOISE_FOR</string>
-		<string>LINCORR</string>
 		<string>MAG_CORRECT</string>
 		<string>MAGNETO_FLUX_CLEAN</string>
 		<string>MAGNETO_FLUX_DIFFROT</string>
@@ -22067,195 +22121,6 @@
 		<string>SHADOW_TEMP</string>
 		<string>SHADOW_TRACE</string>
 		<string>SHOCK_SPEED</string>
-		<string>ARBIS_ARCHIVIST</string>
-		<string>ARBIS_READ_LOG</string>
-		<string>ARBIS_SCRAPE</string>
-		<string>AIA_DIFFROT</string>
-		<string>AIA_FFMPEG</string>
-		<string>AIA_FOV</string>
-		<string>AIA_MKDIR</string>
-		<string>AIA_MKIMAGES</string>
-		<string>AIA_MKMOVIE</string>
-		<string>AIA_PAN</string>
-		<string>AIA_PANEL</string>
-		<string>AIA_PANEL_WRAPPER</string>
-		<string>AIA_RFILTER</string>
-		<string>AIA_RFILTER_JP2GEN</string>
-		<string>AIA_RFILTER_MCREAD</string>
-		<string>AIA_SCALE</string>
-		<string>AIA_SCALEPAR</string>
-		<string>AIA_SCREEN_FILES</string>
-		<string>AIA_SEARCH</string>
-		<string>IMAGE_TRANSITION</string>
-		<string>JP2_READ</string>
-		<string>MC_CNVT_COORD</string>
-		<string>OVERLAY_TRANSITION</string>
-		<string>PAN_PLAY</string>
-		<string>QUALITY_LVL_CHECK</string>
-		<string>ROTATION_TRACKING</string>
-		<string>SYMLINK_TESTER</string>
-		<string>SYMLINKER</string>
-		<string>XML_TO_STRUCT</string>
-		<string>XRT_AIA_ALIGN</string>
-		<string>MCBANNER</string>
-		<string>MCBUTTONS</string>
-		<string>MCCONTACT</string>
-		<string>MCCSS</string>
-		<string>MCDATATABLES</string>
-		<string>MCFOOTER</string>
-		<string>MCHTML</string>
-		<string>MCJAVASCRIPT</string>
-		<string>MCJSON</string>
-		<string>MCPRESETS</string>
-		<string>MCTABLE</string>
-		<string>FILAMENT_171_MOVIES</string>
-		<string>FILAMENT_ADD_TAG</string>
-		<string>FILAMENT_ARCHIVER</string>
-		<string>FILAMENT_BATCH_ENTRY</string>
-		<string>FILAMENT_CMES</string>
-		<string>FILAMENT_COLUMN_COUNTS</string>
-		<string>FILAMENT_COMMENT_EDIT</string>
-		<string>FILAMENT_EDIT</string>
-		<string>FILAMENT_EDIT_CRON</string>
-		<string>FILAMENT_EDIT_LOG</string>
-		<string>FILAMENT_FLARE_DATA</string>
-		<string>FILAMENT_FOV</string>
-		<string>FILAMENT_GET_EDIT_LOG</string>
-		<string>FILAMENT_HEK</string>
-		<string>FILAMENT_HV_DOWNLOAD</string>
-		<string>FILAMENT_MKMOVIE</string>
-		<string>FILAMENT_PLAYLIST</string>
-		<string>FILAMENT_PROCESS_JP2S</string>
-		<string>FILAMENT_PUBLIC_STRUCT</string>
-		<string>FILAMENT_REVIEW_COMMENTS</string>
-		<string>FILAMENT_ROWDATA</string>
-		<string>FILAMENT_SPLITTER</string>
-		<string>FILAMENT_STEREO_MOVIE</string>
-		<string>FILAMENT_STEREO_MOVIES</string>
-		<string>FILAMENT_SUMMARY_PLOTS</string>
-		<string>FILAMENT_SUMMARY_PLOTS_OBSERVERS</string>
-		<string>FILAMENT_THUMBNAILS</string>
-		<string>FILAMENT_WEBSYNC</string>
-		<string>FILAMENT_YOUTUBE</string>
-		<string>FILAMENT_YOUTUBES</string>
-		<string>BASIC_DATA_ROUNDUP</string>
-		<string>CHECK_FOR_DATA</string>
-		<string>DECAY_MATCH</string>
-		<string>ERROR_ROUNDUP</string>
-		<string>FILAMENT_CGPROBPLOT</string>
-		<string>FILAMENT_FIGURE</string>
-		<string>FILAMENT_FIGURE_PLOT</string>
-		<string>FILAMENT_KS_TEST</string>
-		<string>FILAMENT_LATEX_RESULTS_TABLE</string>
-		<string>FILAMENT_PAPER_FIGURES</string>
-		<string>FILAMENT_ROTATION_VELOCITY</string>
-		<string>FILAMENT_STATS_PLOTS</string>
-		<string>FINAL_SAMPLE</string>
-		<string>FINAL_SAMPLE2</string>
-		<string>FINAL_SAMPLE_CUTOUTS</string>
-		<string>FINAL_SAMPLE_LISTS</string>
-		<string>FINAL_SAMPLE_PROCESS</string>
-		<string>HEIGHT_TIME_PUBLIC_FILES</string>
-		<string>INITIAL_SAMPLE</string>
-		<string>MONTE_ROUNDUP</string>
-		<string>NICE_PLOTS</string>
-		<string>PRESERVE_OLD_DECAY</string>
-		<string>PUBLIC_KINEMATICS</string>
-		<string>SLICE_SUMMARY</string>
-		<string>SUM_SELECT</string>
-		<string>SUM_SELECT_WRAPPER</string>
-		<string>SUM_SLICE_SELECT</string>
-		<string>TRAJECTORY_SLICE_WRAPPER</string>
-		<string>LASCO_COMP_PLOTS</string>
-		<string>LASCO_COMP_PLOTSV_T</string>
-		<string>LASCO_PLOTS</string>
-		<string>ONSET_PLOTS</string>
-		<string>RESULTS_SUMMARY</string>
-		<string>SLICE_PROFILES</string>
-		<string>SUMMARY_PLOTS</string>
-		<string>YINGNA_MIRROR</string>
-		<string>FILAMENT_AIA_MKMOVIE</string>
-		<string>FILAMENT_EXAMPLES</string>
-		<string>FILAMENT_MATCH_ENTRIES</string>
-		<string>FILAMENT_PROCESS_JP2S_PATCH</string>
-		<string>FILAMENT_SCRATCH</string>
-		<string>THUMBNAIL_LINES</string>
-		<string>FLARECAT_ADD_TAG</string>
-		<string>FLARECAT_ARCHIVER</string>
-		<string>FLARECAT_FLOAT_RIGHT</string>
-		<string>FLARECAT_GET_NEW</string>
-		<string>FLARECAT_HEK_ADD_REF</string>
-		<string>FLARECAT_HEK_ADD_REFS</string>
-		<string>FLARECAT_HEK_MATCH</string>
-		<string>FLARECAT_MK_MOVIES</string>
-		<string>FLARECAT_NOAA</string>
-		<string>FLARECAT_PFB_TEST</string>
-		<string>FLARECAT_PUBLIC_STRUCT</string>
-		<string>FLARECAT_README</string>
-		<string>FLARECAT_ROWDATA</string>
-		<string>FLARECAT_STATS</string>
-		<string>FLARECAT_STATS_TABLE</string>
-		<string>FLARECAT_UPDATE</string>
-		<string>FLARECAT_UPDATE_CRON</string>
-		<string>FLARECAT_WEBSYNC</string>
-		<string>FLRCAT_MKDIR</string>
-		<string>FLRCAT_MKIMAGES</string>
-		<string>GET_HINODE_CAT</string>
-		<string>GET_SUMMARY_PLOTS</string>
-		<string>SUMMARY_PLOT_CONVERT</string>
-		<string>DIGEST_HINODE_FLARECAT</string>
-		<string>FLARECAT_CATX_INFO</string>
-		<string>FLARECAT_TRUNCATE_THUMBNAILS</string>
-		<string>KATHY_CATALOG</string>
-		<string>KATHY_CROSS_REF</string>
-		<string>NOAA_CROSS_REF</string>
-		<string>XRT_PFB_TEST</string>
-		<string>WHY_XRT_NO_SEE</string>
-		<string>XRT_BUFFER</string>
-		<string>XRT_CATX_SORT</string>
-		<string>XRT_FIND_TIMELINE</string>
-		<string>XRT_FIND_TRACKING</string>
-		<string>XRT_FLARECAT</string>
-		<string>XRT_FLARECAT_SAV_TO_CSV</string>
-		<string>XRT_MATCH_FOV</string>
-		<string>XRT_SEQN_XML</string>
-		<string>XRT_TABLE_NUMBERS</string>
-		<string>XRT_VSO_LINK</string>
-		<string>HALO_ARCHIVER</string>
-		<string>HALO_CACTUS_MOVIES</string>
-		<string>HALO_FIND</string>
-		<string>HALO_MKMOVIE</string>
-		<string>HALO_MKMOVIES</string>
-		<string>HALO_RFILTER_MOVIES</string>
-		<string>HALO_ROWDATA</string>
-		<string>HALO_THUMBNAILS</string>
-		<string>HALO_DIFF_MOVIES</string>
-		<string>HALO_HV_MOVIES</string>
-		<string>QSL_MULTIPANEL</string>
-		<string>QSL_OVERLAY</string>
-		<string>QSL_PREP</string>
-		<string>SUBR_ROTATE</string>
-		<string>SIGMOID_ADD_TAG</string>
-		<string>SIGMOID_ARCHIVER</string>
-		<string>SIGMOID_CACTUS</string>
-		<string>SIGMOID_GOES</string>
-		<string>SIGMOID_MODIFY</string>
-		<string>SIGMOID_ROWDATA</string>
-		<string>SIGMOID_SOLMON</string>
-		<string>SIGMOID_WEBSYNC</string>
-		<string>SIGMOID_XRA</string>
-		<string>SIGMOID_SCRATCH</string>
-		<string>SIGMOID_TAG_REPLACE</string>
-		<string>XPOW_ARCHIVE</string>
-		<string>XPOW_INDEX</string>
-		<string>XPOW_KEYWORD_TABLE</string>
-		<string>XPOW_LINK_KEYWORDS</string>
-		<string>XPOW_NAVIGATION_LINKS</string>
-		<string>XPOW_NEWS</string>
-		<string>XPOW_ROWDATA</string>
-		<string>XPOW_YOUTUBE</string>
-		<string>XPOW_YOUTUBE_INTRO</string>
-		<string>XPOW_YOUTUBE_UPLOAD</string>
 		<string>GALAXY_TRANSFER_CRON</string>
 		<string>MWA_CATALOG_MOVIES_CRON</string>
 		<string>MWA_DYNAMIC_SPECTRA_CRON</string>
@@ -22780,6 +22645,7 @@
 		<string>FOR_RADIOMODEL_V1</string>
 		<string>FOR_RADIOMODEL_V2</string>
 		<string>LASCO_TIME2FILE</string>
+		<string>LINCORR</string>
 		<string>LINT</string>
 		<string>MC_CGCOLORBAR</string>
 		<string>MC_CGHISTOPLOT</string>
@@ -22816,36 +22682,116 @@
 		<string>XWAVESDS_PNG</string>
 		<string>XWAVESDS_PS</string>
 		<string>XWAVESDS_QUIT</string>
+		<string>ADJ_DIST</string>
+		<string>ARRAY_CONTINUOUS</string>
+		<string>ARRAY_INDICES_1D</string>
+		<string>BASELINE_IMAGE</string>
+		<string>CLEAN_NANS</string>
+		<string>CORREL_PORTION</string>
+		<string>EDGE_PIXELS</string>
+		<string>FOURIER_ANNULUS_TAPER</string>
+		<string>HANNING_IMAGE</string>
+		<string>MCBASELINE</string>
+		<string>MCFILTER_IMAGE</string>
+		<string>MULTI_DILATE</string>
+		<string>N_SMALLEST</string>
+		<string>PERSISTENCE_MAP</string>
+		<string>PIXEL_PATH</string>
+		<string>RANGE_OVERLAP</string>
+		<string>SNR_IMG</string>
+		<string>TIME_SYNC</string>
+		<string>DELETE_IMGS</string>
+		<string>EPS2PNG</string>
+		<string>EXTRACT_FRAMES</string>
+		<string>FFMPEG_COMBINE</string>
+		<string>FNAME2TIME</string>
+		<string>JP2_READ</string>
+		<string>JP2_SEARCH</string>
+		<string>MCREAD</string>
+		<string>MCREAD_CUBE</string>
+		<string>MCWRITE_CUBE</string>
+		<string>PROGRAM_LIST</string>
+		<string>SORT_DATA</string>
+		<string>SYMLINK_TESTER</string>
+		<string>SYMLINKER</string>
+		<string>TEXTWRANGLER_SYNTAX</string>
+		<string>THUMBNAIL_GIF</string>
+		<string>VSO_DOWNLOAD</string>
+		<string>WRANGLE</string>
+		<string>XML_TO_STRUCT</string>
 		<string>CONVERT_MAP_UNITS</string>
-		<string>FLUXCAL_SCRATCH</string>
-		<string>FOR_RADIO</string>
-		<string>FOR_RADIO_POL</string>
-		<string>FORWARD_MWA_FLUXCAL</string>
-		<string>FORWARD_MWA_FLUXCAL_RESTORE</string>
-		<string>FORWARD_MWA_FLUXCAL_V1</string>
-		<string>FORWARD_PFSS_BMAP</string>
-		<string>FORWARD_PFSS_BMAPS</string>
-		<string>FORWARD_PFSS_TOPOLOGY</string>
-		<string>FORWARD_SEARCH</string>
-		<string>FORWARD_TB2FLUX</string>
-		<string>MWA_CATALOG_FORWARD_FLUXCAL</string>
-		<string>MWA_FORWARD_GET</string>
-		<string>MWA_FORWARD_GET_POL</string>
-		<string>MWA_FORWARD_SIMULATE</string>
-		<string>MWA_GET_BASELINE_FILE</string>
-		<string>RADIOFREQ</string>
-		<string>TYPE3_SURVEY_FORWARD_GET</string>
+		<string>COORDS_TO_MAP_DATA</string>
+		<string>CUTOUT_MAP</string>
+		<string>MATCH_MAP</string>
+		<string>MC_CNVT_COORD</string>
+		<string>PAD_DATA</string>
+		<string>PIXEL_MAP</string>
+		<string>PIXEL_SELECT</string>
+		<string>RING_METRICS</string>
+		<string>RING_WRAPPER</string>
+		<string>SOLAR_ANGLE_MASK</string>
+		<string>SORT_INTO_RINGS</string>
+		<string>WHERE_MATCH</string>
+		<string>ABS_CROSS</string>
+		<string>ABS_DEPTH</string>
+		<string>ABS_RATIO</string>
+		<string>ALFVEN_SPEED</string>
+		<string>ANDERSON_DARLING_LOGNORMAL</string>
+		<string>DENSITY_MODELS</string>
+		<string>DENSITY_TO_FREQUENCY</string>
+		<string>EXPO_FIT2</string>
+		<string>EXPO_LINEAR</string>
+		<string>EXPO_LINEAR_PROJECT</string>
+		<string>EXPONENTIAL</string>
+		<string>FLARE_CLASS_TO_NUM</string>
+		<string>FREQUENCY_TO_DENSITY</string>
+		<string>LOGNORMAL_CDF</string>
+		<string>LOGNORMAL_PDF</string>
+		<string>NEWKIRK_RADIUS</string>
+		<string>NORMAL_CDF</string>
+		<string>PLASMA_BETA</string>
+		<string>PYTHON_AD_TEST</string>
+		<string>SPOT_MAP_UNCERTAINTY</string>
+		<string>TAU_TO_COLDEN</string>
+		<string>AL_LEGEND</string>
+		<string>BTICK</string>
+		<string>CAPTION</string>
+		<string>DEFAULT_PS</string>
+		<string>DRAW_COMPASS</string>
+		<string>GOES_PLOTTER</string>
+		<string>MCLINECOLORS</string>
+		<string>MCPLOT_IMAGE</string>
+		<string>MCPLOT_MAP</string>
+		<string>MCSUNGRID</string>
+		<string>MCUTPLOT</string>
+		<string>MCUTPLOT_IMAGE</string>
+		<string>PANEL_POSITIONS</string>
+		<string>PLOT_BEAM</string>
+		<string>PPLOT_IMAGE</string>
+		<string>RAINBOW_LINE_COLORS</string>
+		<string>BLOCK</string>
+		<string>HREF</string>
+		<string>PROGRESS_BAR</string>
+		<string>READSTRING</string>
+		<string>STR_PAD</string>
+		<string>STRIP_HTML</string>
+		<string>STRNSIGNIF</string>
+		<string>TD</string>
+		<string>TEST_HYPERLINK</string>
+		<string>TXT_TO_STRUCT</string>
+		<string>UNIX_ESCAPE</string>
+		<string>YOUTUBE_POPUP</string>
 		<string>AIA_SLICE</string>
 		<string>CANNY_FIT</string>
 		<string>CANNY_SLICE</string>
 		<string>CANNY_WIDGET</string>
+		<string>CURVED_SLICE</string>
 		<string>EVENT_SUMMARY_PLOT</string>
-		<string>EXPO_FIT2</string>
-		<string>EXPO_LINEAR</string>
-		<string>EXPO_LINEAR_PROJECT</string>
+		<string>IMG_SLICE</string>
 		<string>MODIFY_SLICE_IMAGE</string>
 		<string>MONTE_CARLO_MPFIT</string>
 		<string>MONTE_FIT</string>
+		<string>PLOT_SLICE</string>
 		<string>PLOT_SLICE_IMAGE</string>
 		<string>STEP1_GET_CUTOUT_BOX</string>
 		<string>STEP2_CROP_FITS_FILES</string>
@@ -22872,11 +22818,20 @@
 		<string>PSF_GENERATE</string>
 		<string>PSF_RESTORE</string>
 		<string>PSF_SPEED_TEST</string>
+		<string>RFILTER_BOUNCE</string>
+		<string>RFILTER_LOCAL</string>
+		<string>RFILTER_MOVIE</string>
+		<string>SOLARSTATS_AIA</string>
+		<string>HIC</string>
+		<string>HIC_LVL1</string>
+		<string>HIC_SCALE</string>
 		<string>HMI_LCT</string>
 		<string>HMI_OVERLAY</string>
 		<string>HMI_PREP</string>
 		<string>HMI_SCALE</string>
 		<string>HMI_SEARCH</string>
+		<string>IRIS_HUI</string>
+		<string>IRIS_SEARCH</string>
 		<string>CULGOORA_REGSEE</string>
 		<string>GET_LEA_CUL</string>
 		<string>GET_LEA_MWA_TIMES</string>
@@ -22886,8 +22841,6 @@
 		<string>PLOT_LEA</string>
 		<string>READ_JAMES_LEA</string>
 		<string>READ_LEA_CUL</string>
-		<string>ADJ_DIST</string>
-		<string>BASELINE_IMAGE</string>
 		<string>BASELINE_IMAGE_PLOT</string>
 		<string>BASELINE_IMAGE_PLOTS</string>
 		<string>CALIBRATOR_TEST_COLLAGE</string>
@@ -22932,7 +22885,6 @@
 		<string>MWA_OBS_ROWDATA</string>
 		<string>MWA_REDUCED</string>
 		<string>MWA_NOAA_REPORTS</string>
-		<string>FRQ2WV</string>
 		<string>APPLY_SOLUTIONS</string>
 		<string>CAL_MODELS</string>
 		<string>CALIB_CORRECT_CASE</string>
@@ -22985,8 +22937,6 @@
 		<string>IPS_TIMES</string>
 		<string>LASCO_START_POSITION</string>
 		<string>PIE</string>
-		<string>MCREAD_CUBE</string>
-		<string>MCWRITE_CUBE</string>
 		<string>MWA_12PLOT</string>
 		<string>MWA_12PLOT_ORIG</string>
 		<string>MWA_12PLOT_SERIES</string>
@@ -23013,6 +22963,7 @@
 		<string>MWA_FIGURE_WRAPPER</string>
 		<string>MWA_FREQ</string>
 		<string>MWA_FWHM_EXTENTS</string>
+		<string>MWA_GET_BASELINE_FILE</string>
 		<string>MWA_GET_LIGHTCURVES</string>
 		<string>MWA_LEA_CUL_TRICOLOR</string>
 		<string>MWA_MOVIE_SETTINGS</string>
@@ -23042,9 +22993,7 @@
 		<string>MWA_TRICOLOR_OLD</string>
 		<string>MWA_TRICOLOR_PLOT</string>
 		<string>MWA_WRITE_CUBE</string>
-		<string>NEWKIRK_RADIUS</string>
 		<string>PAWSEY_PROPOSAL_NUMBERS</string>
-		<string>PLOT_BEAM</string>
 		<string>FORWARD_LEAKAGE_THRESH</string>
 		<string>MWA_CATALOG_BASELINE_LEAKAGE_SUBTRACT</string>
 		<string>MWA_DO_LEAKAGE_SUB</string>
@@ -23059,7 +23008,6 @@
 		<string>POL_CH_FIGURE</string>
 		<string>POL_NORM_PLOT</string>
 		<string>PROCESS_KAMEN_MWA</string>
-		<string>RAINBOW_LINE_COLORS</string>
 		<string> COMPARISON</string>
 		<string>AMAN_MWA_EXAMPLE</string>
 		<string>CAL_COMPARE</string>
@@ -23069,162 +23017,28 @@
 		<string>SSP_DYNAMIC_SPECTRUM_EXAMPLE</string>
 		<string>SSP_MWA_EXAMPLE</string>
 		<string>SURAJIT_CME_DATA</string>
-		<string>SOLAR_ANGLE_MASK</string>
-		<string>SSW_FLARE_SUMMARY</string>
 		<string>SUNCENTER_SCRATCH</string>
 		<string>SUNPOS_SCRATCH</string>
-		<string>UNIX_ESCAPE</string>
-		<string>WGET</string>
-		<string>XRT_SEARCH</string>
-		<string>AIA_171_304_OVERLAY</string>
-		<string>FOREBEARS</string>
-		<string>GOLDEN_KEY</string>
-		<string>LASCO_SEARCH_EXAMPLE</string>
-		<string>NICE_PLOT_EXAMPLE</string>
-		<string>REDO_EXAMPLE</string>
-		<string>SSP_2017_ALEX_SAMPLE_CODE</string>
-		<string>ALPHA_COLLAB_DOWNLOAD_DATA</string>
-		<string>ALPHA_FLUX_PLOT</string>
-		<string>ALPHA_HMI_171_OVERLAY</string>
-		<string>ALPHA_MAG_FLUX_CLEAN</string>
-		<string>ALPHA_MAG_MOVIE</string>
-		<string>ALPHA_PROCESS_AIA_DATA</string>
-		<string>ALPHA_PROCESS_HMI_DATA</string>
-		<string>GET_HMI_SHARP_COORDS</string>
-		<string>GET_NLFF_COORDS</string>
-		<string>NLFF_OVERLAY</string>
-		<string>NLFF_OVERLAY_WRAPPER</string>
-		<string>BCHANGE_MAP_PREP</string>
-		<string>GET_NLFF_COORDS_WRAPPER</string>
-		<string>GET_NLFF_WCS</string>
-		<string>INTERP_HC2HPC</string>
-		<string>MODEL_HEIGHT_SLICE</string>
-		<string>MODEL_HEIGHT_SLICE_PLOT</string>
-		<string>NLFF_AIA_HMI_OVERLAYS</string>
-		<string>NLFF_BCHANGE_OVERLAY</string>
-		<string>NLFF_BCHANGE_OVERLAY_FIGURE</string>
-		<string>NLFF_BCHANGE_OVERLAY_FIGURE_ALL</string>
-		<string>NLFF_BCHANGE_OVERLAY_FIGURE_V1</string>
-		<string>NLFF_BCHANGE_OVERLAY_V1</string>
-		<string>NLFF_OVERLAY_171_P_SOLN</string>
-		<string>NLFF_OVERLAY_171_P_SOLN_FIGURE</string>
-		<string>NLFF_OVERLAY_FIGURE</string>
-		<string>NLFF_OVERLAY_PLOT</string>
-		<string>NLFF_OVERLAY_QUENTIN</string>
-		<string>NLFF_PN_PANELS</string>
-		<string>NLFF_PN_PANELS2</string>
-		<string>NLFF_WRITE_CUBE_FITS</string>
-		<string>PARAVIEW_CAMERA</string>
-		<string>ALPHA_OVERLAY_TEST</string>
-		<string>ALPHA_OVERLAY_TEST2</string>
-		<string>GET_HMI_SHARP_COORDS_V1</string>
-		<string>GET_NLFF_COORDS_V1</string>
-		<string>GET_NLFF_COORDS_V2</string>
-		<string>NLFF_OVERLAY_V1</string>
-		<string>NLFF_OVERLAY_V2</string>
-		<string>NOAA_ARCHIVE</string>
-		<string>NOAA_READ_REPORT</string>
-		<string>NOAA_SCRAPE</string>
-		<string>MC_PFSS_DRAW_FIELD</string>
-		<string>MC_PFSS_TRACE_FIELD</string>
-		<string>MC_SPHERICAL_TRACE_FIELD</string>
-		<string>PFSS_COORD</string>
-		<string>PFSS_COORD_B</string>
-		<string>PFSS_FORWARD_QUERY</string>
-		<string>PFSS_GET_FIELD</string>
-		<string>PFSS_LINE_EXPLORER</string>
-		<string>PFSS_LINES</string>
-		<string>PFSS_MAG_STRENGTH</string>
-		<string>PFSS_MATCH_COORD</string>
-		<string>PFSS_OVERLAY</string>
-		<string>PFSS_OVERLAY_FIGURE</string>
-		<string>QSL_MAKE_MAP</string>
-		<string>QSL_MAKE_MAP_V1</string>
-		<string>QSL_MATCH_MAP</string>
-		<string>QSL_OVERLAY_FIGURE</string>
-		<string>QSL_OVERLAY_MAP</string>
-		<string>QSL_OVERLAY_PLOT</string>
-		<string>QSL_OVERLAY_WRAPPER</string>
-		<string>AIA_RFILTER_2MIN</string>
-		<string>AIA_RFILTER_CREATE_SAVE_2MIN</string>
-		<string>AIA_RFILTER_MULTIDAY</string>
-		<string>AIA_RFILTER_OFFPOINT</string>
-		<string>AIA_RFILTER_RENAME</string>
-		<string>AIA_RFILTER_WRAPPER_2MIN</string>
-		<string>ALCOCK</string>
-		<string>COMPILED_PATH_TEST_SNIPPET</string>
-		<string>CUTOUTS</string>
+		<string>STEREO_SEARCH</string>
 		<string>ECLIPSE_CHECKER</string>
+		<string>FIND_SYNOPTICS</string>
 		<string>GBAND_INDEXES</string>
 		<string>GBAND_ORBIT</string>
 		<string>GBANDHISTO</string>
-		<string>GFUNCT</string>
-		<string>HIC_LVL1</string>
-		<string>INTERESTING_EVENT_20111128</string>
-		<string>LASCO_FEATURE_TRACK</string>
-		<string>LASCO_PROJECT</string>
-		<string>LASCO_PROJECT2</string>
-		<string>LOOP_RENAME</string>
+		<string>ISON_XRT</string>
+		<string>SYN</string>
+		<string>SYN_MK1024</string>
+		<string>SYN_MK1024D</string>
+		<string>SYN_MK1024E</string>
+		<string>SYN_MK2048A</string>
+		<string>SYN_MK2048B</string>
+		<string>MAJOR_FLARE_WATCH</string>
 		<string>MANUAL_XRT_SHIFTS</string>
-		<string>MONTH_STACK</string>
-		<string>NOVA</string>
-		<string>NOVA_CUTOUT</string>
-		<string>NOVA_FULLCAD</string>
-		<string>OFFPOINT_ALIGN</string>
-		<string>OFFPOINT_ALIGNMENT_TEST</string>
-		<string>OFFPOINT_PHOTOMETRY</string>
-		<string>PSETUP</string>
-		<string>RECTANGLE</string>
-		<string>REMOVE_EVEN_INDICES</string>
-		<string>RFILTER_1024_MASKING</string>
-		<string>SCRATCH</string>
-		<string>SCRATCH2</string>
-		<string>SCRATCH3</string>
-		<string>SCRATCH4</string>
-		<string>SCRATCH5</string>
-		<string>SCRATCH6</string>
-		<string>TVREAD</string>
-		<string>UNTITLED_1</string>
-		<string>UNTITLED_6</string>
-		<string>XPIX_CIRC</string>
-		<string>XRT_AIA_20111108_FULLCAD_131</string>
-		<string>XRT_BREWER</string>
-		<string>CARRINGTON_ROTATION</string>
-		<string>CIRCLE</string>
-		<string>CME_TRACK_193</string>
-		<string>FLARE_PATROL_INTERLAY</string>
-		<string>FLRCAT_DTSORT</string>
-		<string>FLRCAT_MKDIR</string>
-		<string>FLRCAT_MKIMAGES</string>
-		<string>FLRCAT_MKMOVIE</string>
-		<string>FLRCAT_POINTING</string>
-		<string>FLRCAT_PREPOST</string>
-		<string>HMI_STEAMER_HOURCAD</string>
-		<string>READ_PREP_JITTER</string>
-		<string>REPEAT_TEST</string>
-		<string>SCRATCH</string>
-		<string>SCRATCH2</string>
-		<string>SOLARSTATS_SDO</string>
-		<string>UNTITLED_1</string>
-		<string>UNTITLED_3</string>
-		<string>UNTITLED_4</string>
-		<string>XRT_MANUAL_SEARCH</string>
-		<string>COLOR_ON_GRAY</string>
-		<string>DRAWBOX_DEUCE</string>
-		<string>HUI_SYMPATHETIC</string>
-		<string>LOVEJOY_MOVIE</string>
-		<string>SCRATCH</string>
-		<string>20121114_ECLIPSE</string>
-		<string>20130510_ECLIPSE</string>
-		<string>AIA_RFILTER_JP2GEN</string>
-		<string>FIL_SEARCH</string>
-		<string>FILCAT_WRAPPER</string>
-		<string>GIFTOFRO</string>
-		<string>LASCO_AIA_COMPOSITE</string>
-		<string>RFILTER_COMPOSITE</string>
-		<string>SOLMON_GRID</string>
-		<string>YNSU</string>
-		<string>ADDPATH</string>
+		<string>MULTI_LEAK</string>
+		<string>SOLARSTATS_XRT</string>
+		<string>SYNOFF</string>
+		<string>SYNOPTIC_FINDER</string>
+		<string>XRT_AIA_ALIGN</string>
 		<string>AIA_RFILTER2</string>
 		<string>AIA_RFILTEREDIT</string>
 		<string>AIA_RFILTER_CREATE_SAVEEDIT</string>
@@ -23235,14 +23049,12 @@
 		<string>AIA_XRT_20111108_FULLCAD</string>
 		<string>BATCH_TEST</string>
 		<string>CARRINGTON_ROTATIONB</string>
-		<string>CIRCLE</string>
 		<string>CME_CURVE</string>
 		<string>CME_TRACK</string>
 		<string>CME_TRACK_NEW</string>
 		<string>CME_TRACK_NOISE</string>
 		<string>COMPOSITE_PLOT</string>
 		<string>CURSOR_DATASELECT</string>
-		<string>DRAWBOX</string>
 		<string>EXPCHECK</string>
 		<string>FIND_XRTCAT</string>
 		<string>HIC</string>
@@ -23291,162 +23103,270 @@
 		<string>XRT_BATCH_COMPOSITE_ORIGINAL</string>
 		<string>XRT_FILE_READ_PREP</string>
 		<string>XRT_PFB</string>
-		<string>BLOB_MOVIE</string>
-		<string>BLOB_SEARCH</string>
-		<string>CLASSROOM_ACTIVITY</string>
-		<string>ECLIPSE_LEON</string>
-		<string>FFMPEG_COMBINE</string>
-		<string>FILAMENT_HEART</string>
-		<string>FIND_SYNOPTICS</string>
-		<string>HIC</string>
-		<string>HIC_SCALE</string>
-		<string>IRIS_HUI</string>
-		<string>IRIS_SEARCH</string>
-		<string>ISON_XRT</string>
-		<string>JAY_ECLIPSE</string>
-		<string>KATHY_SIMULATION</string>
-		<string>KATHY_VELOCITY</string>
-		<string>KATHY_VELOCITY_PLOTS</string>
-		<string>SYN</string>
-		<string>SYN_MK1024</string>
-		<string>SYN_MK1024D</string>
-		<string>SYN_MK1024E</string>
-		<string>SYN_MK2048A</string>
-		<string>SYN_MK2048B</string>
-		<string>MAJOR_FLARE_WATCH</string>
-		<string>MULTI_LEAK</string>
-		<string>OFFPOINT_PHOTOMETRY</string>
-		<string>OFFPOINT_PHOTOMETRY_NICOLE</string>
-		<string>PS1</string>
-		<string>SENIOR_REVIEW</string>
-		<string>SOLARSTATS_AIA</string>
-		<string>SOLARSTATS_XRT</string>
-		<string>SYNOFF</string>
-		<string>SYNOPTIC_FINDER</string>
-		<string>TRAE_BLOBS</string>
 		<string>XRT_PFB_POINTING</string>
 		<string>XRT_POINTING_CHECK</string>
-		<string>AMAN_EXAMPLE_PLOT</string>
-		<string>AOIFE_EXAMPLE</string>
-		<string>ATUL_LIGHTCURVES</string>
-		<string>LASCO_OVERLAY_SCRATCH</string>
-		<string>SAMIRA</string>
-		<string>SAMPLER_CHECK</string>
-		<string>SCALE_PAD_EXAMPLE</string>
-		<string>SCRATCH</string>
-		<string>TALK_MOVIE</string>
-		<string>TEST_JP2_COMPOSITE</string>
-		<string>WHATEVER</string>
-		<string>EVENT_SETTINGS</string>
-		<string>DELETE_IMGS</string>
-		<string>PROGRAM_LIST</string>
-		<string>TEXTWRANGLER_SYNTAX</string>
-		<string>WRANGLE</string>
-		<string>FNAME2TIME</string>
-		<string>JP2_SEARCH</string>
-		<string>SORT_DATA</string>
-		<string>STEREO_SEARCH</string>
-		<string>VSO_DOWNLOAD</string>
-		<string>ALFVEN_SPEED</string>
-		<string>ARRAY_CONTINUOUS</string>
-		<string>ARRAY_INDICES_1D</string>
-		<string>BTICK</string>
-		<string>CAPTION</string>
-		<string>CHECK_INPUTS</string>
-		<string>COORD_MATCH</string>
-		<string>COORDS_TO_MAP_DATA</string>
-		<string>CURVED_SLICE</string>
-		<string>CUTOUT_MAP</string>
-		<string>DEFAULT_PS</string>
-		<string>DRAW_COMPASS</string>
-		<string>EDGE_PIXELS</string>
-		<string>ENLARGE_MAP</string>
-		<string>EPS2PNG</string>
-		<string>FOURIER_ANNULUS_TAPER</string>
-		<string>HANNING_IMAGE</string>
-		<string>IMG_SLICE</string>
-		<string>MATCH_MAP</string>
-		<string>MCAIA_RFILTER</string>
-		<string>MCBASELINE</string>
-		<string>MCFILTER_IMAGE</string>
-		<string>MCLINECOLORS</string>
-		<string>MCPLOT_IMAGE</string>
-		<string>MCPLOT_MAP</string>
-		<string>MCREAD</string>
-		<string>MCUTPLOT</string>
-		<string>MCUTPLOT_IMAGE</string>
-		<string>MEMORY_TEST</string>
-		<string>MULTI_DILATE</string>
-		<string>MULTI_PANEL_POSITIONS</string>
-		<string>PAD_DATA</string>
-		<string>PANEL_POSITIONS</string>
-		<string>PERSISTANCE_MAP</string>
-		<string>PERSISTENCE_MAP</string>
-		<string>PIXEL_MAP</string>
-		<string>PIXEL_PATH</string>
-		<string>PLASMA_BETA</string>
-		<string>PLOT_SLICE</string>
-		<string>PPLOT_IMAGE</string>
-		<string>REVERSE_TRUE_COLOR</string>
-		<string>RING_METRICS</string>
-		<string>RING_WAPPER</string>
-		<string>RING_WRAPPER</string>
-		<string>SORT_INTO_RINGS</string>
-		<string>SPOT_MAP_UNCERTAINTY</string>
-		<string>STR_PAD</string>
-		<string>UUTPLOT_IMAGE</string>
-		<string>WHERE_MATCH</string>
-		<string>AL_LEGEND</string>
-		<string>ANDERSON_DARLING_LOGNORMAL</string>
-		<string>BLOCK</string>
+		<string>XRT_SEARCH</string>
+		<string>MCBANNER</string>
+		<string>MCBUTTONS</string>
+		<string>MCCONTACT</string>
+		<string>MCCSS</string>
+		<string>MCDATATABLES</string>
+		<string>MCFOOTER</string>
+		<string>MCHTML</string>
+		<string>MCJAVASCRIPT</string>
+		<string>MCJSON</string>
+		<string>MCPRESETS</string>
+		<string>MCTABLE</string>
+		<string>FILAMENT_171_MOVIES</string>
+		<string>FILAMENT_ADD_TAG</string>
+		<string>FILAMENT_ARCHIVER</string>
+		<string>FILAMENT_BATCH_ENTRY</string>
+		<string>FILAMENT_CMES</string>
+		<string>FILAMENT_COLUMN_COUNTS</string>
+		<string>FILAMENT_COMMENT_EDIT</string>
+		<string>FILAMENT_EDIT</string>
+		<string>FILAMENT_EDIT_CRON</string>
+		<string>FILAMENT_EDIT_LOG</string>
+		<string>FILAMENT_FLARE_DATA</string>
+		<string>FILAMENT_FOV</string>
+		<string>FILAMENT_GET_EDIT_LOG</string>
+		<string>FILAMENT_HEK</string>
+		<string>FILAMENT_HV_DOWNLOAD</string>
+		<string>FILAMENT_MKMOVIE</string>
+		<string>FILAMENT_PLAYLIST</string>
+		<string>FILAMENT_PROCESS_JP2S</string>
+		<string>FILAMENT_PUBLIC_STRUCT</string>
+		<string>FILAMENT_REVIEW_COMMENTS</string>
+		<string>FILAMENT_ROWDATA</string>
+		<string>FILAMENT_SPLITTER</string>
+		<string>FILAMENT_STEREO_MOVIE</string>
+		<string>FILAMENT_STEREO_MOVIES</string>
+		<string>FILAMENT_SUMMARY_PLOTS</string>
+		<string>FILAMENT_SUMMARY_PLOTS_OBSERVERS</string>
+		<string>FILAMENT_THUMBNAILS</string>
+		<string>FILAMENT_WEBSYNC</string>
+		<string>FILAMENT_YOUTUBE</string>
+		<string>FILAMENT_YOUTUBES</string>
+		<string>BASIC_DATA_ROUNDUP</string>
+		<string>CHECK_FOR_DATA</string>
+		<string>DECAY_MATCH</string>
+		<string>ERROR_ROUNDUP</string>
+		<string>FILAMENT_CGPROBPLOT</string>
+		<string>FILAMENT_FIGURE</string>
+		<string>FILAMENT_FIGURE_PLOT</string>
+		<string>FILAMENT_KS_TEST</string>
+		<string>FILAMENT_LATEX_RESULTS_TABLE</string>
+		<string>FILAMENT_PAPER_FIGURES</string>
+		<string>FILAMENT_ROTATION_VELOCITY</string>
+		<string>FILAMENT_STATS_PLOTS</string>
+		<string>FINAL_SAMPLE</string>
+		<string>FINAL_SAMPLE2</string>
+		<string>FINAL_SAMPLE_CUTOUTS</string>
+		<string>FINAL_SAMPLE_LISTS</string>
+		<string>FINAL_SAMPLE_PROCESS</string>
+		<string>HEIGHT_TIME_PUBLIC_FILES</string>
+		<string>INITIAL_SAMPLE</string>
+		<string>MONTE_ROUNDUP</string>
+		<string>NICE_PLOTS</string>
+		<string>PRESERVE_OLD_DECAY</string>
+		<string>PUBLIC_KINEMATICS</string>
+		<string>SLICE_SUMMARY</string>
+		<string>SUM_SELECT</string>
+		<string>SUM_SELECT_WRAPPER</string>
+		<string>SUM_SLICE_SELECT</string>
+		<string>TRAJECTORY_SLICE_WRAPPER</string>
+		<string>LASCO_COMP_PLOTS</string>
+		<string>LASCO_COMP_PLOTSV_T</string>
+		<string>LASCO_PLOTS</string>
+		<string>ONSET_PLOTS</string>
+		<string>RESULTS_SUMMARY</string>
+		<string>SLICE_PROFILES</string>
+		<string>SUMMARY_PLOTS</string>
+		<string>YINGNA_MIRROR</string>
+		<string>FILAMENT_AIA_MKMOVIE</string>
+		<string>FILAMENT_EXAMPLES</string>
+		<string>FILAMENT_MATCH_ENTRIES</string>
+		<string>FILAMENT_PROCESS_JP2S_PATCH</string>
+		<string>FILAMENT_SCRATCH</string>
+		<string>THUMBNAIL_LINES</string>
+		<string>FLARECAT_ADD_TAG</string>
+		<string>FLARECAT_ARCHIVER</string>
+		<string>FLARECAT_FLOAT_RIGHT</string>
+		<string>FLARECAT_GET_NEW</string>
+		<string>FLARECAT_HEK_ADD_REF</string>
+		<string>FLARECAT_HEK_ADD_REFS</string>
+		<string>FLARECAT_HEK_MATCH</string>
+		<string>FLARECAT_MK_MOVIES</string>
+		<string>FLARECAT_NOAA</string>
+		<string>FLARECAT_PFB_TEST</string>
+		<string>FLARECAT_PUBLIC_STRUCT</string>
+		<string>FLARECAT_README</string>
+		<string>FLARECAT_ROWDATA</string>
+		<string>FLARECAT_STATS</string>
+		<string>FLARECAT_STATS_TABLE</string>
+		<string>FLARECAT_UPDATE</string>
+		<string>FLARECAT_UPDATE_CRON</string>
+		<string>FLARECAT_WEBSYNC</string>
+		<string>FLRCAT_MKDIR</string>
+		<string>FLRCAT_MKIMAGES</string>
+		<string>GET_HINODE_CAT</string>
+		<string>GET_SUMMARY_PLOTS</string>
+		<string>SUMMARY_PLOT_CONVERT</string>
+		<string>DIGEST_HINODE_FLARECAT</string>
+		<string>FLARECAT_CATX_INFO</string>
+		<string>FLARECAT_TRUNCATE_THUMBNAILS</string>
+		<string>KATHY_CATALOG</string>
+		<string>KATHY_CROSS_REF</string>
+		<string>NOAA_CROSS_REF</string>
+		<string>XRT_PFB_TEST</string>
+		<string>WHY_XRT_NO_SEE</string>
+		<string>XRT_BUFFER</string>
+		<string>XRT_CATX_SORT</string>
+		<string>XRT_FIND_TIMELINE</string>
+		<string>XRT_FIND_TRACKING</string>
+		<string>XRT_FLARECAT</string>
+		<string>XRT_FLARECAT_SAV_TO_CSV</string>
+		<string>XRT_MATCH_FOV</string>
+		<string>XRT_SEQN_XML</string>
+		<string>XRT_TABLE_NUMBERS</string>
+		<string>XRT_VSO_LINK</string>
+		<string>HALO_ARCHIVER</string>
+		<string>HALO_CACTUS_MOVIES</string>
+		<string>HALO_FIND</string>
+		<string>HALO_MKMOVIE</string>
+		<string>HALO_MKMOVIES</string>
+		<string>HALO_RFILTER_MOVIES</string>
+		<string>HALO_ROWDATA</string>
+		<string>HALO_THUMBNAILS</string>
+		<string>HALO_DIFF_MOVIES</string>
+		<string>HALO_HV_MOVIES</string>
+		<string>SIGMOID_ADD_TAG</string>
+		<string>SIGMOID_ARCHIVER</string>
+		<string>SIGMOID_CACTUS</string>
+		<string>SIGMOID_GOES</string>
+		<string>SIGMOID_MODIFY</string>
+		<string>SIGMOID_ROWDATA</string>
+		<string>SIGMOID_SOLMON</string>
+		<string>SIGMOID_WEBSYNC</string>
+		<string>SIGMOID_XRA</string>
+		<string>SIGMOID_SCRATCH</string>
+		<string>SIGMOID_TAG_REPLACE</string>
+		<string>XPOW_ARCHIVE</string>
+		<string>XPOW_INDEX</string>
+		<string>XPOW_KEYWORD_TABLE</string>
+		<string>XPOW_LINK_KEYWORDS</string>
+		<string>XPOW_NAVIGATION_LINKS</string>
+		<string>XPOW_NEWS</string>
+		<string>XPOW_ROWDATA</string>
+		<string>XPOW_YOUTUBE</string>
+		<string>XPOW_YOUTUBE_INTRO</string>
+		<string>XPOW_YOUTUBE_UPLOAD</string>
+		<string>FLUXCAL_SCRATCH</string>
+		<string>FOR_RADIO</string>
+		<string>FOR_RADIO_POL</string>
+		<string>FORWARD_MWA_FLUXCAL</string>
+		<string>FORWARD_MWA_FLUXCAL_RESTORE</string>
+		<string>FORWARD_MWA_FLUXCAL_V1</string>
+		<string>FORWARD_PFSS_BMAP</string>
+		<string>FORWARD_PFSS_BMAPS</string>
+		<string>FORWARD_PFSS_TOPOLOGY</string>
+		<string>FORWARD_SEARCH</string>
+		<string>FORWARD_TB2FLUX</string>
+		<string>MWA_CATALOG_FORWARD_FLUXCAL</string>
+		<string>MWA_FORWARD_GET</string>
+		<string>MWA_FORWARD_GET_POL</string>
+		<string>MWA_FORWARD_SIMULATE</string>
+		<string>RADIOFREQ</string>
+		<string>TYPE3_SURVEY_FORWARD_GET</string>
+		<string>ALPHA_COLLAB_DOWNLOAD_DATA</string>
+		<string>ALPHA_FLUX_PLOT</string>
+		<string>ALPHA_HMI_171_OVERLAY</string>
+		<string>ALPHA_MAG_FLUX_CLEAN</string>
+		<string>ALPHA_MAG_MOVIE</string>
+		<string>ALPHA_PROCESS_AIA_DATA</string>
+		<string>ALPHA_PROCESS_HMI_DATA</string>
+		<string>GET_HMI_SHARP_COORDS</string>
+		<string>GET_NLFF_COORDS</string>
+		<string>NLFF_OVERLAY</string>
+		<string>NLFF_OVERLAY_WRAPPER</string>
+		<string>BCHANGE_MAP_PREP</string>
+		<string>GET_NLFF_COORDS_WRAPPER</string>
+		<string>GET_NLFF_WCS</string>
+		<string>INTERP_HC2HPC</string>
+		<string>MODEL_HEIGHT_SLICE</string>
+		<string>MODEL_HEIGHT_SLICE_PLOT</string>
+		<string>NLFF_AIA_HMI_OVERLAYS</string>
+		<string>NLFF_BCHANGE_OVERLAY</string>
+		<string>NLFF_BCHANGE_OVERLAY_FIGURE</string>
+		<string>NLFF_BCHANGE_OVERLAY_FIGURE_ALL</string>
+		<string>NLFF_BCHANGE_OVERLAY_FIGURE_V1</string>
+		<string>NLFF_BCHANGE_OVERLAY_V1</string>
+		<string>NLFF_OVERLAY_171_P_SOLN</string>
+		<string>NLFF_OVERLAY_171_P_SOLN_FIGURE</string>
+		<string>NLFF_OVERLAY_FIGURE</string>
+		<string>NLFF_OVERLAY_PLOT</string>
+		<string>NLFF_OVERLAY_QUENTIN</string>
+		<string>NLFF_PN_PANELS</string>
+		<string>NLFF_PN_PANELS2</string>
+		<string>NLFF_WRITE_CUBE_FITS</string>
+		<string>PARAVIEW_CAMERA</string>
+		<string>ALPHA_OVERLAY_TEST</string>
+		<string>ALPHA_OVERLAY_TEST2</string>
+		<string>GET_HMI_SHARP_COORDS_V1</string>
+		<string>GET_NLFF_COORDS_V1</string>
+		<string>GET_NLFF_COORDS_V2</string>
+		<string>NLFF_OVERLAY_V1</string>
+		<string>NLFF_OVERLAY_V2</string>
+		<string>MC_PFSS_DRAW_FIELD</string>
+		<string>MC_PFSS_TRACE_FIELD</string>
+		<string>MC_SPHERICAL_TRACE_FIELD</string>
+		<string>PFSS_COORD</string>
+		<string>PFSS_COORD_B</string>
+		<string>PFSS_FORWARD_QUERY</string>
+		<string>PFSS_GET_FIELD</string>
+		<string>PFSS_LINE_EXPLORER</string>
+		<string>PFSS_LINES</string>
+		<string>PFSS_MAG_STRENGTH</string>
+		<string>PFSS_MATCH_COORD</string>
+		<string>PFSS_OVERLAY</string>
+		<string>PFSS_OVERLAY_FIGURE</string>
+		<string>QSL_MAKE_MAP</string>
+		<string>QSL_MAKE_MAP_V1</string>
+		<string>QSL_MATCH_MAP</string>
+		<string>QSL_MULTIPANEL</string>
+		<string>QSL_OVERLAY</string>
+		<string>QSL_PREP</string>
+		<string>SUBR_ROTATE</string>
+		<string>QSL_OVERLAY_FIGURE</string>
+		<string>QSL_OVERLAY_MAP</string>
+		<string>QSL_OVERLAY_PLOT</string>
+		<string>QSL_OVERLAY_WRAPPER</string>
+		<string>ARBIS_ARCHIVIST</string>
+		<string>ARBIS_READ_LOG</string>
+		<string>ARBIS_SCRAPE</string>
 		<string>CACTUS_LINK</string>
 		<string>CACTUS_LINK2DATA</string>
 		<string>CACTUS_MOVIE</string>
 		<string>CACTUS_QUERY</string>
-		<string>CORREL_PORTION</string>
-		<string>EXPONENTIAL</string>
-		<string>EXTRACT_FRAMES</string>
-		<string>FLARE_CLASS_TO_NUM</string>
-		<string>GOES_PLOTTER</string>
 		<string>HEK_QUERY</string>
-		<string>HREF</string>
 		<string>HV_DOWNLOAD</string>
 		<string>HV_LINK</string>
-		<string>LINCORR</string>
-		<string>LOGNORMAL_CDF</string>
-		<string>LOGNORMAL_PDF</string>
-		<string>MC_ADD_TAG</string>
-		<string>MC_CNVT_COORD</string>
-		<string>MCSUNGRID</string>
-		<string>MCSUNGRID_BETA</string>
-		<string>N_SMALLEST</string>
-		<string>NO_PROGRESS_BAR</string>
+		<string>NOAA_ARCHIVE</string>
+		<string>NOAA_READ_REPORT</string>
+		<string>NOAA_SCRAPE</string>
 		<string>NOBEYAMA</string>
-		<string>NORMAL_CDF</string>
-		<string>PIXEL_SELECT</string>
-		<string>PROGRESS_BAR</string>
-		<string>PYTHON_AD_TEST</string>
-		<string>RANGE_OVERLAP</string>
-		<string>READ_HEADER</string>
-		<string>READSTRING</string>
-		<string>RFILTER_BOUNCE</string>
-		<string>RFILTER_LOCAL</string>
-		<string>RFILTER_MOVIE</string>
-		<string>SIGFIGS</string>
 		<string>SNAPVIEW</string>
 		<string>SOHO_THEATER</string>
 		<string>SOLAR_MONITOR</string>
 		<string>STEREO_LINK</string>
-		<string>STRIP_HTML</string>
-		<string>STRNSIGNIF</string>
-		<string>TD</string>
-		<string>TEST_HYPERLINK</string>
-		<string>THUMBNAIL_GIF</string>
-		<string>TIME_SYNC</string>
-		<string>TXT_TO_STRUCT</string>
-		<string>XMLPARSER</string>
-		<string>YOUTUBE_POPUP</string>
-		<string>PROCESS_DATA</string>
+		<string>SSW_FLARE_SUMMARY</string>
+		<string>COORD_MATCH</string>
+		<string>MC_ADD_TAG</string>
+		<string>MCAIA_RFILTER</string>
+		<string>MCSUNGRID_BETA</string>
+		<string>NO_PROGRESS_BAR</string>
+		<string>READ_HEADER</string>
+		<string>SIGFIGS</string>
 
 	</array>
 

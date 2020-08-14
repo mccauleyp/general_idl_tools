@@ -40,7 +40,7 @@ function n_smallest, data, n
 ; NOTES:
 ;	None.
 ;
-; Written by Patrick McCauley (mccauley.pi@gmail.com)
+; Written by ??? and modified/documented Patrick McCauley (mccauley.pi@gmail.com)
 ;
 ;-
 ; ========================================================================================
