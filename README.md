@@ -41,6 +41,8 @@ Find the n smallest values in an array and return an array of indices, as if fro
 Generate a maximum or minimum value "persistence map" from a 3D data cube of images. The output image will contain the max or min value of every pixel across the set to capture feature evolution.  
 * [pixel_path](https://github.com/mccauleyp/general_idl_tools/blob/master/arrays_and_images/pixel_path.pro):
 Given a set of pixels that have been interactively selected by the user using PIXEL_SELECT, generate a smooth trajectory path with a polynomial fit and calculate the arclength along the path.
+* [pixel_select](https://github.com/mccauleyp/general_idl_tools/blob/master/mapping/pixel_select.pro):
+Interactively select a set of pixels on an image using CURSOR.
 * [range_overlap](https://github.com/mccauleyp/general_idl_tools/blob/master/arrays_and_images/range_overlap.pro):
 Determine if two or more ranges, [start, end], overlap. 
 * [snr_img](https://github.com/mccauleyp/general_idl_tools/blob/master/arrays_and_images/snr_img.pro):
@@ -109,8 +111,6 @@ Conversion between any 2 of 4 coord systems for solar images. Slightly modified 
 Pad (fill around the edges of) a data array so that it matches the dimensions on the sky of a reference index.
 * [pixel_map](https://github.com/mccauleyp/general_idl_tools/blob/master/mapping/pixel_map.pro):
 Generate a structure containing the X, Y, and radial coordinates of every pixel in a solar image.
-* [pixel_select](https://github.com/mccauleyp/general_idl_tools/blob/master/mapping/pixel_select.pro):
-Interactively select a set of pixels on an image using CURSOR.
 * [ring_metrics](https://github.com/mccauleyp/general_idl_tools/blob/master/mapping/ring_metrics.pro):
 Given the output from SORT_INTO_RINGS, return the min, max, mean, median, and stdev values for each ring.
 * [ring_wrapper](https://github.com/mccauleyp/general_idl_tools/blob/master/mapping/ring_wrapper.pro):
