@@ -11,7 +11,7 @@ function sort_into_rings, pixel_map, nrings=nrings, $
 ;
 ; PURPOSE: 
 ;   Sort a PIXEL_MAP into rings, where ring membership is determined by a pixel's 
-;   distance using a linear relationship between the range of radii and number of rings/
+;   distance using a linear relationship between the range of radii and number of rings.
 ;
 ; INPUTS: 
 ;   PIXEL_MAP = (Structure) Output from PIXEL_MAP
